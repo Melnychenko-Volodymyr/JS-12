@@ -1,0 +1,17 @@
+body {
+    background-color:aliceblue;
+}
+.container {
+    width: 1200px;
+    height: 800px;
+    background-color: white;
+    position: relative;
+    border: 1px solid black;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.picture {
+    position: absolute;
+    top: 400px;
+    left: 600px;
+}
