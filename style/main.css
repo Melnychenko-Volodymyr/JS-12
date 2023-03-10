@@ -2,7 +2,7 @@ body {
     background-color:aliceblue;
 }
 .container {
-    width: 1200px;
+    width: 80%;
     height: 800px;
     background-color: white;
     position: relative;
